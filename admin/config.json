@@ -1,0 +1,10 @@
+{
+    "referral_url": "https:\/\/stockity.id\/?a=d8761bdff791&t=7",
+    "block_vpn": false,
+    "required_params": [
+        "gclid"
+    ],
+    "min_required": 1,
+    "allowed_countries": "",
+    "blocked_countries": ""
+}
